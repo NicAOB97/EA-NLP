@@ -1,7 +1,7 @@
 # Effective Altruism Natural Language Processing
-Kaggle: 80,000 hours podcast transcripts
+Data from Kaggle: 80,000 hours podcast transcripts <br>
 
-![logo](./images/80000hoursLogo.webp)['80,000 hours Logo']
+![logo](./images/80000hoursLogo.webp '80,000 hours logo')
 
 <h2>Pre-requisites ✔️: </h2>
 
